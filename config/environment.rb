@@ -5,7 +5,7 @@ require 'ostruct'
 require 'date'
 
 
-require 'bundler/setup'
+#require 'bundler/setup'
 Bundler.require
 
 
